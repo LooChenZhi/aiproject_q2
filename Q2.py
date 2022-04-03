@@ -69,7 +69,7 @@ for i in range(5):
     {} CR-4
     {} CR-5
 
-    The minimum rental per day is {} with maximum capacity of {}
+    The minimum rental per day is RM{} with maximum capacity of {}
 
     All citizen will be vaccinated in {} days.
 
