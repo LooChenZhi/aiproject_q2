@@ -83,9 +83,9 @@ for i in range(5):
     All citizen will be vaccinated in {} days.
 
     By priotizing citizen age < 35, followed by 35 < age < 65, then age > 65\n
-    We will only distribute Vaccine C for the first {} days\n
+    We will only distribute Vaccine A for the first {} days\n
     We will only distribute Vaccine B for the next {} days\n
-    We will only distribute Vaccine A for the next {} days
+    We will only distribute Vaccine C for the next {} days
     """.format(solution_found['CR1'], solution_found['CR2'], solution_found['CR3'], solution_found['CR4'],solution_found['CR5'],total_day,vac_c_day,vac_b_day,vac_a_day))
     st.markdown("""---""")
     state += 1 
